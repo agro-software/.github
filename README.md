@@ -32,10 +32,9 @@ Nossa missão é empoderar produtores rurais com dados e insights para que tomem
 
 Atualmente, nosso foco está no desenvolvimento da nossa principal plataforma de gestão.
 
-| Projeto                               | Descrição                                                                                                                                      | Status                            |                                       |                                                                                                                                                |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **AgroHub** | Nosso principal produto. Um sistema completo para gestão de fazendas de procriação de gado, incluindo controle de rebanho, sanidade e finanças. | 🚀 Em Desenvolvimento |
-
+| Projeto | Descrição | Status |
+| :--- | :--- | :--- |
+| **AgroHub** | Nosso principal produto. Um sistema completo para gestão de fazendas de criação de gado, incluindo controle de rebanho, sanidade e finanças. | 🚀 Em Desenvolvimento |
 ---
 
 ### 💻 Nossas Tecnologias
