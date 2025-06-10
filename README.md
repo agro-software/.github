@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://googleusercontent.com/image_generation_content/1" alt="Agro Software Logo" width="250"/>
+  <img src="https://github.com/agro-software/.github/blob/main/agro-software.png" alt="Agro Software Logo" width="250"/>
 </p>
 
 <h1 align="center">
